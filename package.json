@@ -1,0 +1,23 @@
+{
+  "name": "-react-card-gallery",
+  "version": "1.0.0",
+  "description": "CARD UI",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoorHarbaji/-React-Card-Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoorHarbaji/-React-Card-Gallery/issues"
+  },
+  "homepage": "https://github.com/NoorHarbaji/-React-Card-Gallery#readme",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  },
+  "devDependencies": {}
+}
